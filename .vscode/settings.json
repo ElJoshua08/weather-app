@@ -1,0 +1,7 @@
+{
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.formatOnSave": true,
+}
